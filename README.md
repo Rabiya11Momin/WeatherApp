@@ -30,5 +30,5 @@ This is a basic React Native app that allows users to check the current weather 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-native-weather-app.git
+   git clone https://github.com/Rabiya11Momin/WeatherApp.git
    cd react-native-weather-app
